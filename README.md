@@ -6,7 +6,7 @@
 - [Project 2](https://github.com/erichmair/project_2)
 - [Project 3](https://github.com/erichmair/project_3)
 
-<h2>📑 Erich's Cyber Wiki (helpful resources for current/future IT professionals):</h2>
+<h2>📑 Mair Cyber Wiki (helpful resources for current/future IT professionals):</h2>
 
 - <b>[Table of Contents](https://github.com/erichmair/cyber_wiki)</b>
   - [A](https://github.com/erichmair/resource_a)
@@ -16,7 +16,7 @@
   - [E](https://github.com/erichmair/resource_e)
   - [F](https://github.com/erichmair/resource_f)
 
-<h2>⏯ YouTube Tutorial Videos (🚨UPDATE):</h2>
+<h2>⏯ YouTube Videos (Mair Tech Tutorials):</h2>
 
 - [Tutorial: VIDEO1](https://www.youtube.com/watch?v=video1)
 - [Tutorial: VIDEO2](https://www.youtube.com/watch?v=video2)
