@@ -9,7 +9,7 @@
   - [Network+](https://www.comptia.org/certifications/network)
   - [A+](https://www.comptia.org/certifications/a)
   - [Project+](https://www.comptia.org/certifications/project)
-- <b>(ISC)²</b>
+- <b>ISC2</b>
   - [Systems Security Certified Practitioner (SSCP)](https://www.isc2.org/Certifications/SSCP)
   - [Certified in Cybersecurity (CC)](https://www.isc2.org/certified-in-cybersecurity)
 - <b>GIAC</b>
